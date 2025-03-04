@@ -1,0 +1,29 @@
+Create a program to shortly explain Ramayanam.
+4 lines for each kanda.
+
+In the main function I should be able to call each kandam by calling the function related to them.
+
+
+Expected Output:
+
+
+**************************************************************
+*                          Ramayanam                         *
+**************************************************************
+
+This is a great ithihasa by sage valmiki. British created
+an opinion that this is a myth and hence called it a mythology.
+However this is our history and there are many evidences that
+prove that the stories in the Ramanayam are real. 
+
+
+
+
+**************************************************************
+*                         1. Balakanda                       *
+**************************************************************
+
+This part of the history has how the lord Rama is born, his 
+education and marriage details........
+.............
+.........
