@@ -1,0 +1,11 @@
+Write a program to print multiplication table
+
+At the top of the program initialize a variable int i=10
+
+Now print the table 
+
+10 x 1 = 10
+..
+..
+..
+10 x 10 =100
