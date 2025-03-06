@@ -1,0 +1,18 @@
+User Registration and login Form
+-----------------------
+
+Collect user details as below:
+----------------------------
+Firstname string
+Lastname string
+Password:
+Confirm Password:
+
+
+
+Login form
+----------
+username
+password 
+
+if user password entered is same as password entered during registration, then show the message "Welcome to the page". Else enter "Wrong information".

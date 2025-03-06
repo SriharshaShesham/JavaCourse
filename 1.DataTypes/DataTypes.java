@@ -22,7 +22,7 @@ public class DataTypes {
 		// Non-Numeric
 		// ---------------
 		// Boolean -> true or false
-		// char -> a, b, c
+		// char -> 'a', b, c
 
 		// This is the first number we initialize to add
 		byte firstNumber = 5;

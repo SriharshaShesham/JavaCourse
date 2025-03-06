@@ -1,0 +1,16 @@
+User Registration Form
+-----------------------
+
+Collect user details as below:
+----------------------------
+Firstname string
+Lastname string
+Age byte
+GPA float
+B.Tech Complete? true/false
+
+
+Print the details gathered.
+----------------------------
+Firstname: Rama
+Lastname: Ikshvaku
