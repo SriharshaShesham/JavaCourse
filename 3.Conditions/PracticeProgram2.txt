@@ -1,0 +1,136 @@
+ATM Application
+--------------
+Deafult variables;
+
+UserPin = your phone number
+UserAccountBalance = 25000
+UserCurrentBalance;
+
+
+
+
+---------------------------------------------------------------------
+| 
+|
+|				Welcome to SBI ATM
+|
+|			Please select a language
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|--------------
+|1. English   |
+|--------------
+|--------------
+|2. Telugu   |
+|--------------
+--------------------------------------------------------------------------------------
+
+Please enter your selection: 1.
+
+---------------------------------------------------------------------
+| 
+|
+|				Welcome to SBI ATM
+|
+|    			   Select the account
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|--------------
+|1. Savings   |
+|--------------
+|--------------
+|2. Checkings   |
+|--------------
+--------------------------------------------------------------------------------------
+
+
+Please enter your selection: 1.
+
+
+Please enter your pin: 93467888888
+Check if the user pin is same as the one initialized at the top
+
+If Yes -> Continue
+If No -> Show error screen
+
+
+---------------------------------------------------------------------
+| 
+|
+|				Welcome to SBI ATM
+|
+|    		What operation do you want to perform
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|--------------
+|1. Withdrawl   |
+|--------------
+|------------------------
+|2. Get Current Balance   |
+|-------------------------
+|--------------
+|3. Deposit   |
+|--------------
+--------------------------------------------------------------------------------------
+
+
+
+
+Please make a selection: 1
+
+Enter amount to Withdraw: 1000
+
+UserCurrentBalance=UserAccountBalance-1000;
+
+Your current balance is UserCurrentBalance;
+
+
+
+
+Please make a selection: 2
+
+Your current balance is UserCurrentBalance;
+
+
+
+
+Please make a selection: 3
+
+Enter amount to Deposit: 1000
+
+UserCurrentBalance=UserAccountBalance+1000;
+
+Your current balance is UserCurrentBalance;
