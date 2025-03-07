@@ -70,10 +70,8 @@ Please enter your selection: 1.
 
 
 Please enter your pin: 93467888888
-Check if the user pin is same as the one initialized at the top
+Check if the user pin is same as the one initialized at the top, if both pins are same continue to the next screen. Else create a screen showing "Invalid Pin"
 
-If Yes -> Continue
-If No -> Show error screen
 
 
 ---------------------------------------------------------------------
