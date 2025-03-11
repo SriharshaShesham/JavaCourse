@@ -1,0 +1,8 @@
+take 2 numbers
+
+check which one is greater then substract the smaller number from the big one. 
+
+Print:
+------
+the greatest of two numbers is 10
+the difference of two number is 5
