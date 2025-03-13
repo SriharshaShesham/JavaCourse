@@ -10,11 +10,27 @@ public class GreatestOf2Numbers // Pascal Case
 	public static void main(String[] args) {
 		scanner = new Scanner(System.in);
 		Program();
-		String name = "Rama";
+		GetTestInputFromUser();
 	}
 
+	public static void PrintLine() {
+		System.out.println("--------------------------------------------------");
+	}
+
+	// Portion 2
+	public static void GetTestInputFromUser() {
+		System.out.println("Function -> GetTestInputFromUser()");
+		int number;
+
+		System.out.println("Enter a number");
+		number = scanner.nextInt();
+		System.out.println("User entered number is : " + number);
+	}
+
+	// Portion 1
 	public static void Program() // Pascal Case
 	{
+		System.out.println("Function -> Program()");
 		int firstNumber;// camel case
 		int secondNumber;// camel case
 		String programName;
@@ -46,7 +62,4 @@ public class GreatestOf2Numbers // Pascal Case
 
 	}
 
-	public static void PrintLine() {
-		System.out.println("--------------------------------------------------");
-	}
 }

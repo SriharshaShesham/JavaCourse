@@ -1,0 +1,11 @@
+{
+  "java.project.sourcePaths": [
+    "5.Operators",
+    "4.Scopes",
+    "3.Conditions",
+    "2.InputOutput",
+    "1.DataTypes",
+    "0. Intro",
+    "6. FunctionsInDepth"
+  ]
+}

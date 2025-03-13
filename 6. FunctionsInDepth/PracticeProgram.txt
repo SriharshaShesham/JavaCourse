@@ -1,0 +1,13 @@
+School Registry:
+----------------
+
+Take 3 student details:
+Firstname
+Lastname
+Age
+DOB
+FatherName
+PreviousGPA -> decimals
+
+
+Print the 3 student details
