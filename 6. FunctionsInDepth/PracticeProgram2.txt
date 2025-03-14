@@ -1,0 +1,34 @@
+Calculation
+--------------
+
+User input screen
+-------------------
+What Calculation do you want to perform? Please select a value from below:
+1. Addition
+2. Substraction
+3. Multiplication
+4. Division
+
+For example if user selects 1
+
+Addition
+--------------
+Enter first number: 10
+Enter second number: 25
+
+Sum of two numbers is: 35
+
+
+For example if user selects 2
+
+Substraction
+---------------------
+
+check which of the two numbers is greater and subsctract the smaller one from the bigger one.
+
+
+
+Division
+-------------
+check which of the two numbers is greater and devide the larger number by smaller.
+Check if the any of the number is zero, if zero then display message "Error: One of the number is zero"
