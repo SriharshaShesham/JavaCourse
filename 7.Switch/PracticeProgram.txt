@@ -1,0 +1,17 @@
+Program should demonstrate switch using below three functions
+
+Switch Demo:
+----------------
+1. Switch Using Int
+2. Switch Using Char
+3. Switch using String
+
+Please make a selection: 1
+
+-----------------------
+Switch using Int
+----------------------------
+Sample code like Ramayanam
+
+
+
