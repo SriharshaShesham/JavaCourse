@@ -17,6 +17,10 @@ public class Calculation {
 			// Addition
 			Addition();
 		}
+		if (userSelection == 2) {
+
+			// Substraction();
+		}
 
 	}
 
