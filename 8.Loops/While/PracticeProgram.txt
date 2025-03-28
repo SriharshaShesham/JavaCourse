@@ -1,0 +1,20 @@
+Take 2 inputs from user
+Which number do you want to print the table for: 10
+Until which number do you want to print: 2
+
+Output:
+-------
+10 x 1 = 10
+10 x 2 = 20
+
+
+Which number do you want to print the table for: 10
+Until which number do you want to print: 5
+
+Output:
+-------
+10 x 1 = 10
+10 x 2 = 20
+10 x 3 = 30
+10 x 4 = 40
+10 x 5 = 50
