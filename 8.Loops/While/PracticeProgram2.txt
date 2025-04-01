@@ -1,0 +1,35 @@
+Please make a selection from below:
+1. Addition
+2. Substraction
+3. Division
+
+1
+This is addition function.
+
+Do you want to choose a different function (y/n)
+
+y
+
+
+Please make a selection from below:
+1. Addition
+2. Substraction
+3. Division
+
+2
+This is Substraction function
+Do you want to choose a different function (y/n)
+
+y
+
+
+Please make a selection from below:
+1. Addition
+2. Substraction
+3. Division
+
+3
+This is Division function
+Do you want to choose a different function (y/n)
+
+n
