@@ -1,0 +1,24 @@
+
+Greatest of 3 numbers:
+
+Take 3 numbers from user:
+
+compare them and print Greatest
+
+
+Do you want to continue?
+
+y
+
+
+Take 3 numbers from user:
+
+compare them and print Greatest
+
+
+Do you want to continue?
+
+n
+
+exit the loop
+
